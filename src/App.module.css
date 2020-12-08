@@ -1,0 +1,24 @@
+.filter_by {
+  margin: 2rem 1rem;
+}
+.filter_type {
+  display: flex;
+  justify-content: space-between;
+  padding: 0.5rem 1rem;
+  border-radius: 25px;
+  background: #f6f6f6;
+  border: 1px solid #bbb;
+  align-items: center;
+}
+
+.ques_mark {
+  color: #555;
+  height: 25px;
+  font-weight: 600;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* border: 1px solid #555;
+  padding: 0 0.1rem; */
+}
